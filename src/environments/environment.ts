@@ -5,14 +5,13 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDCGPTiXhgDwQIyOp5iiQv7KvGsN2EIusI",
-    authDomain: "todos-daba8.firebaseapp.com",
-    databaseURL: "https://todos-daba8.firebaseio.com",
-    projectId: "todos-daba8",
-    storageBucket: "todos-daba8.appspot.com",
-    messagingSenderId: "381634863399",
-    appId: "1:381634863399:web:6811d0527a323c5a368902",
-    measurementId: "G-J2CV32GTSY"
+    apiKey: "AIzaSyBFZ8NlyxMJPBFJyGfGEuPnMTfys7VC4Ak",
+    authDomain: "todos-63044.firebaseapp.com",
+    databaseURL: "https://todos-63044.firebaseio.com",
+    projectId: "todos-63044",
+    storageBucket: "todos-63044.appspot.com",
+    messagingSenderId: "606056869435",
+    appId: "1:606056869435:web:141c92974f938bb477f61e"
   },
 };
 
